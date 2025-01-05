@@ -1,4 +1,3 @@
-```markdown
 # Weather App
 
 This is a simple **Weather App** built using **Python** and **Tkinter** for the GUI. The app allows users to input a city name and get the current weather information for that city, including temperature, weather condition, and more. The app uses the **OpenWeatherMap API** to fetch weather data.
@@ -81,4 +80,3 @@ This will launch the GUI window. Enter a city name, click "Get Weather," and see
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-```
