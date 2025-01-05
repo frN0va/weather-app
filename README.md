@@ -79,4 +79,4 @@ This will launch the GUI window. Enter a city name, click "Get Weather," and see
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE)
