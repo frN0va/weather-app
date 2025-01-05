@@ -19,7 +19,7 @@ def get_weather():
     params = {
         "q": city,
         "appid": api_key,
-        "units": "metric"  # Use "imperial" for Fahrenheit
+        "units": "imperial" #Use 'metric' for Celsius
     }
     
     try:
